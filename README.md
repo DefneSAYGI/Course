@@ -1,2 +1,3 @@
 # Welcome to ELE101 Course
-Write your name and your personal GitHub repo you have just created line below: (Your Name - repo address)
+Write your name and your personal GitHub repo you have just created line below: (Your Name - repo address)\
+Defne Saygı [my repo](https://github.com/DefneSAYGI/ELE101-2526IlkRepo)
